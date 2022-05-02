@@ -8,6 +8,8 @@ public class intromyself {
 		
 System.out.println("Hi");
 System.out.println("Hello");
+System.out.println("How are you");
+System.out.println("What are you doing");
 	}
 
 }
